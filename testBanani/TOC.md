@@ -1,4 +1,4 @@
 # [Index](index.md)
 # [Test](whitespace.md)
 # [Test-Feature-index](abc-index.md)
-# [Test-Fea](./abcdef-index.md)
+# [Test-Fea](../abcdef-index.md)
