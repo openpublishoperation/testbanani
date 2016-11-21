@@ -4,5 +4,5 @@ Get all team projects in the project collection that the authenticated user has 
 
 >[!div class="tabbedCodeSnippets" cs='C#' javascript='Javascript']
 ```python
-  GET https://{instance}/DefaultCollection/_apis/projects?api-version={version}[&stateFilter{string}&$top={integer}&skip={integer}]
+    GET https://{instance}/DefaultCollection/_apis/projects?api-version={version}[&stateFilter{string}&$top={integer}&skip={integer}]
 ``` 
