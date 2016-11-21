@@ -2,6 +2,6 @@
 
 Get all team projects in the project collection that the authenticated user has access to.
 
-```html
-GET https://{instance}/DefaultCollection/_apis/projects?api-version={version}[&amp;stateFilter{string}&amp;$top={integer}&amp;skip={integer}]
+```xml
+GET https://{instance}/DefaultCollection/_apis/projects?api-version={version}[&stateFilter{string}&$top={integer}&skip={integer}]
 ```
