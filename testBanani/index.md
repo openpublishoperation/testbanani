@@ -6,4 +6,4 @@
 
 [SDK-NET] [SDK-Net]
 
-[SDK-Net]: ./manageconnection.md 
+[SDK-Net]: ./manageconnection.md#security-token
