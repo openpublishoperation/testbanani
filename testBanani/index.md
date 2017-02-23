@@ -8,4 +8,4 @@
 
 [SDK-Net] : https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-dev-glossary#permissions
 
-[SDK-Net] : index.md
+[SDK-Net] : /index.md
