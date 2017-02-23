@@ -7,3 +7,5 @@
 [SDK-NET] [SDK-Net]
 
 [SDK-Net] : https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-dev-glossary#permissions
+
+[SDK-Net] : /testbanani/index.md
