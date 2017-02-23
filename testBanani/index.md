@@ -6,4 +6,4 @@
 
 [SDK-NET] [SDK-Net]
 
-[SDK-Net]: /index.md
+[SDK-Net]: ./manageconnection.md 
